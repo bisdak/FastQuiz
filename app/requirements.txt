@@ -2,6 +2,8 @@ Flask
 pymongo
 dnspython
 python-dotenv
+pandas
+openpyxl
 
 pytest
 pytest-flask
